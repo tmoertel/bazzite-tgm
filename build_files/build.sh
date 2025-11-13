@@ -10,7 +10,7 @@ set -ouex pipefail
 # https://mirrors.rpmfusion.org/mirrorlist?path=free/fedora/updates/39/x86_64/repoview/index.html&protocol=https&redirect=1
 
 # this installs packages from fedora repos
-dnf5 install -y emacs emacs-magit ksshaskpass openssh-askpass tmux virt-manager
+dnf5 install -y emacs emacs-magit godot ksshaskpass openssh-askpass tmux virt-manager
 
 # Use a COPR Example:
 #
