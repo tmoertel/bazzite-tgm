@@ -24,6 +24,7 @@ dnf5 install -y \
      python3 \
      python3-libs \
      python3-pytest \
+     ruff \
      tmux \
      uv \
      virt-manager
