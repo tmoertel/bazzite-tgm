@@ -21,6 +21,7 @@ dnf5 install -y \
      python3-pytest \
      ruff \
      tmux \
+     toolbox \
      uv \
      virt-manager
 
