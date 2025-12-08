@@ -13,6 +13,7 @@ set -ouex pipefail
 dnf5 install -y \
      emacs \
      emacs-magit \
+     entr \
      godot \
      inotify-tools \
      ksshaskpass \
