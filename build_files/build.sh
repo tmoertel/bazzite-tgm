@@ -15,7 +15,6 @@ dnf5 install -y \
      emacs-magit \
      entr \
      godot \
-     inotify-tools \
      ksshaskpass \
      openssh-askpass \
      python3 \
