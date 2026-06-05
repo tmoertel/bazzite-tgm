@@ -33,6 +33,9 @@ dnf5 install -y \
 # Disable COPRs so they don't end up enabled on the final image:
 # dnf5 -y copr disable ublue-os/staging
 
+dnf5 copr -y enable aldantanneo/jj-vcs
+dnf5 install -y jj-cli
+
 #### Example for enabling a System Unit File
 
 systemctl enable podman.socket
