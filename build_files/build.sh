@@ -35,6 +35,7 @@ dnf5 install -y \
 
 dnf5 copr -y enable aldantanneo/jj-vcs
 dnf5 install -y jj-cli
+dnf5 copr -y disable aldantanneo/jj-vcs
 
 #### Example for enabling a System Unit File
 
