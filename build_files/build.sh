@@ -24,7 +24,29 @@ dnf5 install -y \
      tmux \
      toolbox \
      uv \
-     virt-manager
+     virt-manager \
+     \
+     adobe-source-code-pro-fonts \
+     adobe-source-sans-pro-fonts \
+     atkinson-hyperlegible-mono-fonts \
+     cascadia-code-fonts \
+     cascadia-code-nf-fonts \
+     comic-neue-fonts-common \
+     google-cousine-fonts \
+     google-droid-fonts-all \
+     google-go-mono-fonts \
+     google-roboto-condensed-fonts \
+     google-roboto-fonts \
+     google-roboto-mono-fonts \
+     google-roboto-slab-fonts \
+     ibm-plex-fonts-all \
+     intel-one-mono-fonts \
+     jetbrains-mono-fonts \
+     jetbrains-mono-nl-fonts \
+     lato-fonts \
+     liberation-fonts-all \
+     linux-libertine-fonts-all \
+
 
 # Use a COPR Example:
 #
