@@ -16,6 +16,7 @@ dnf5 install -y \
      entr \
      godot \
      ksshaskpass \
+     llama-cpp \
      openssh-askpass \
      python3 \
      python3-libs \
